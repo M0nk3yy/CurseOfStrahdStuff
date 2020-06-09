@@ -7,7 +7,7 @@
    "minimumCoreVersion": "0.5.0",
    "compatibleCoreVersion":"0.6.2",
    "url": "https://github.com/M0nk3yy/CurseOfStrahdStuff/",
-   "manifest": "https://raw.githubusercontent.com/M0nk3yy/CurseOfStrahdStuff/master/module.json"
+   "manifest": "https://raw.githubusercontent.com/M0nk3yy/CurseOfStrahdStuff/master/module.json",
    "packs": [
     {
       "name": "items",
