@@ -23,6 +23,6 @@
     }
   ],
 	"url": "https://github.com/M0nk3yy/CurseOfStrahdStuff/",
-	"manifest": "https://raw.githubusercontent.com/M0nk3yy/CurseOfStrahdStuff/master/module.json",
+	"manifest": "https://raw.githubusercontent.com/M0nk3yy/CurseOfStrahdStuff/v1.0.0/module.json",
 	"download": "https://github.com/M0nk3yy/CurseOfStrahdStuff/archive/v1.0.0.zip"
  }
