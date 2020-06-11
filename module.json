@@ -3,7 +3,7 @@
    "title": "Curse of Strahd Stuff",   
    "description": "This module adds compendiums containing macros, items, and feats for the Curse of Strahd campaign.",   
    "author": "Monkeyy",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "minimumCoreVersion": "0.5.0",
    "compatibleCoreVersion":"0.6.2",
    "packs": [
