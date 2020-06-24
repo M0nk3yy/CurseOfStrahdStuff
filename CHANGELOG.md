@@ -1,10 +1,8 @@
 # v1.0.2
 
-- Update Unarmed Strike weapon type to be "Natural".
-- Add "Conditions" journal entries and CUB config.
-- Update the "Tireless" macro text.
-- Add Kekilla's "Light" macro.
-- Add Kekilla's "Spiritual Weapon" macro.
+- Update Unarmed Strike weapon type to be "Natural". *Updated* 
+- Add "Curse of Strahd Conditions" journal entries compendium for CUB. *Added*
+- Update the "Tireless" macro text. *Updated*
 
 ## v1.0.1 
 
