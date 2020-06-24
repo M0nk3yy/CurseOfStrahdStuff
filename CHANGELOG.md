@@ -1,5 +1,7 @@
 # v1.0.2
 
+Following the 23/6/20 session, the following changes have been made:
+
 - Updated Unarmed Strike weapon type to be "Natural".
 - Added "Curse of Strahd Conditions" journal entries compendium for CUB.
 - Updated the "Tireless" macro text.
