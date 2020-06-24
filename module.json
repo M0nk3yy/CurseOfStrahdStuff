@@ -5,12 +5,19 @@
    "author": "Monkeyy",
    "version": "1.0.2",
    "minimumCoreVersion": "0.6.2",
-   "compatibleCoreVersion":"0.6.2",
+   "compatibleCoreVersion":"0.6.4",
    "packs": [
     {
       "name": "items",
       "label": "Curse of Strahd Items & Feats",
       "path": "packs/strahditems.db",
+      "entity": "Item",
+      "module": "curseofstrahdstuff"
+    },
+    {
+      "name": "journals",
+      "label": "Curse of Strahd Conditions",
+      "path": "packs/strahdconditions.db",
       "entity": "Item",
       "module": "curseofstrahdstuff"
     },
