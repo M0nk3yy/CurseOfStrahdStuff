@@ -1,10 +1,15 @@
-# v1.0.2
+# v1.0.3
+
+- Tireless - Removed from macro compendium.
+- Tireless - Added to item compendium.
+
+## v1.0.2
 
 Following the 23/6/20 session, the following changes have been made:
 
-- Updated Unarmed Strike weapon type to be "Natural".
-- Added "Curse of Strahd Conditions" journal entries compendium for CUB.
-- Updated the "Tireless" macro text.
+- Unarmed Strike - Changed weapon type to "Natural".
+- Curse of Strahd Conditions - Added journal entries compendium for CUB.
+- Tireless - Updated macro text.
 
 ## v1.0.1 
 
