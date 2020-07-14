@@ -1,4 +1,9 @@
-# v1.0.3
+# v1.0.4
+
+- Hunter's Mark - Add Innate Spellcasting version
+- Flame Arrows - Add version with icon
+
+## v1.0.3
 
 - Tireless - Removed from macro compendium.
 - Tireless - Added to item compendium.
