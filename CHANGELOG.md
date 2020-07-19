@@ -1,4 +1,11 @@
-# v1.0.3
+# v1.0.4
+
+- Hunter's Mark - Added Innate Spellcasting version of spell
+- Flame Arrows - Add version of spell with icon
+- Shield Master - Feat added
+- Fancy Footwork - Archetype ability added
+
+## v1.0.3
 
 - Tireless - Removed from macro compendium.
 - Tireless - Added to item compendium.
