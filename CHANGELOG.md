@@ -1,7 +1,9 @@
 # v1.0.4
 
-- Hunter's Mark - Add Innate Spellcasting version
-- Flame Arrows - Add version with icon
+- Hunter's Mark - Added Innate Spellcasting version of spell
+- Flame Arrows - Add version of spell with icon
+- Shield Master - Feat added
+- Fancy Footwork - Archetype ability added
 
 ## v1.0.3
 
