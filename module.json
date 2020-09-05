@@ -3,9 +3,9 @@
    "title": "Curse of Strahd Stuff",   
    "description": "This module adds compendiums containing macros, items, and feats for the Curse of Strahd campaign.",   
    "author": "Monkeyy",
-   "version": "1.0.4",
+   "version": "1.0.5",
    "minimumCoreVersion": "0.6.2",
-   "compatibleCoreVersion":"0.7.0",
+   "compatibleCoreVersion":"0.7.5",
    "packs": [
     {
       "name": "items",
@@ -31,5 +31,5 @@
   ],
 	"url": "https://github.com/M0nk3yy/CurseOfStrahdStuff/",
 	"manifest": "https://raw.githubusercontent.com/M0nk3yy/CurseOfStrahdStuff/master/module.json",
-	"download": "https://github.com/M0nk3yy/CurseOfStrahdStuff/archive/v1.0.4.zip"
+	"download": "https://github.com/M0nk3yy/CurseOfStrahdStuff/archive/v1.0.5.zip"
  }
