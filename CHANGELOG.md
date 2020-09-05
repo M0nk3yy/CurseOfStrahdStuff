@@ -1,4 +1,11 @@
-# v1.0.4
+# v1.0.5
+
+- Barbed Arrows - Added first draft of item
+- Bolas Arrows - Added first draft of item
+- Tireless - Replaced with new version
+- Conditions - Replaced duplicate conditions with list of new ones
+
+## v1.0.4
 
 - Hunter's Mark - Added Innate Spellcasting version
 - Flame Arrows - Add version of spell with icon
