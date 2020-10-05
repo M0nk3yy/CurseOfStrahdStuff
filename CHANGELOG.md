@@ -1,4 +1,15 @@
-# v1.0.5
+# v1.0.6
+
+- Blessed - Replaced with non-DE macro
+- Brutal Strike - Replaced with non-DE macro
+- Light Picker - Removed duplicate macro
+- Shrink/Enlarge - Added macro
+- Tireless - Removed redundant macro
+- Dunnigtreh Bow (Magic Charges) - Updated
+- Dunnigtreh Bow (Regular) - Updated
+- Mirror of Luna Lake - Feat removed
+
+## v1.0.5
 
 - Barbed Arrows - Added first draft of item
 - Bolas Arrows - Added first draft of item
