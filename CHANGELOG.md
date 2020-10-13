@@ -1,4 +1,12 @@
-# v1.0.6
+# v1.0.7
+
+- Hunter's Mark - Replaced with Better Curses version
+- Dunnigtreh Bow (Regular) - Updated
+- Dunnigtreh Bow - Added versions utilizing Bolas Arrows and Barbed Arrows
+- Bolas Arrows - Updated
+- Barbed Arrows - Updated
+
+## v1.0.6
 
 - Blessed - Replaced with non-DE macro
 - Brutal Strike - Replaced with non-DE macro
