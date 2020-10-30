@@ -4,6 +4,7 @@
    "description": "This module adds compendiums containing macros, items, and feats for the Curse of Strahd campaign.",   
    "author": "Monkeyy",
    "version": "1.1.0",
+   "systems": ["dnd5e"],
    "minimumCoreVersion": "0.6.5",
    "compatibleCoreVersion":"0.7.9",
    "packs": [
@@ -28,6 +29,16 @@
       "entity": "Macro",
       "module": "curseofstrahdstuff"
     }
+  ],
+    "dependencies": [
+    {
+      "name": "itemacro",
+      "manifest": "https://github.com/Kekilla0/Item-Macro/raw/master/module.json"
+    },
+	{
+	  "name": "betterCurses",
+      "manifest": "https://raw.githubusercontent.com/Wigsinator/betterCurses/master/src/module.json"
+	}
   ],
 	"url": "https://github.com/M0nk3yy/CurseOfStrahdStuff/",
 	"manifest": "https://raw.githubusercontent.com/M0nk3yy/CurseOfStrahdStuff/master/module.json",
