@@ -1,6 +1,6 @@
 # v1.1.0
 
-- Total overhaul for Foundry 0.7.5 and Dynamic Active Effects.
+Total overhaul for Foundry 0.7.5 and Dynamic Active Effects.
 
 Highlights:
 
