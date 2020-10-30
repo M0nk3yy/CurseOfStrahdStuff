@@ -1,4 +1,17 @@
-# v1.0.7
+# v1.1.0
+
+Total overhaul for Foundry 0.7.5 and Dynamic Active Effects.
+
+Highlights:
+
+- Hunter's Mark spells utilising Better Curses
+- Multiattack Defense using DAE and Item Macros
+- Bless spell using CUB conditions and DAE
+- Included a settings file for CUB conditions lab
+- Removed redundant or outdated entries
+- Various minor bugfixes and edits
+
+## v1.0.7
 
 - Hunter's Mark - Replaced with Better Curses version
 - Dunnigtreh Bow (Regular) - Updated
