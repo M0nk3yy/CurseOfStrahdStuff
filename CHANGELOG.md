@@ -7,6 +7,7 @@ Highlights:
 - Hunter's Mark spells utilising Better Curses
 - Multiattack Defense using DAE and Item Macros
 - Bless spell using CUB conditions and DAE
+- Included a settings file for CUB conditions lab
 - Removed redundant or outdated entries
 - Various minor bugfixes and edits
 
