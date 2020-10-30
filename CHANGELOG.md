@@ -1,12 +1,3 @@
-# v1.1.2
-
-Tried to fix dependencies
-
-## v1.1.1
-
-Tried to implement dependencies
-Added 5e system tag
-
 ## v1.1.0
 
 Total overhaul for Foundry 0.7.5 and Dynamic Active Effects.
