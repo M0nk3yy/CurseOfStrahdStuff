@@ -1,3 +1,7 @@
+# v1.1.2
+
+Tried to fix dependencies
+
 ## v1.1.1
 
 Tried to implement dependencies
