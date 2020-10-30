@@ -33,11 +33,9 @@
     "dependencies": [
     {
       "name": "itemacro",
-      "manifest": "https://github.com/Kekilla0/Item-Macro/raw/master/module.json"
     },
 	{
 	  "name": "betterCurses",
-      "manifest": "https://raw.githubusercontent.com/Wigsinator/betterCurses/master/src/module.json"
 	}
   ],
 	"url": "https://github.com/M0nk3yy/CurseOfStrahdStuff/",
