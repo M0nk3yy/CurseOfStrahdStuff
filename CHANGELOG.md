@@ -1,3 +1,12 @@
+# v1.1.1
+
+Added in a few bits that still need fixing after the 0.7.5 update.
+
+- Argent Aegis
+- Close Quarters Shooter
+- Unarmoured Defense (Barbarian)
+- Goodberry
+
 ## v1.1.0
 
 Total overhaul for Foundry 0.7.5 and Dynamic Active Effects.
