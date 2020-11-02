@@ -1,4 +1,8 @@
-# v1.1.1
+# v1.1.3
+
+Skipped straight to 1.1.3 to rectify issues with bugged v1.1.1 and v1.1.2 releases.
+
+## v1.1.1
 
 Added in a few bits that still need fixing after the 0.7.5 update.
 
