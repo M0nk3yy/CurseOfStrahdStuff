@@ -6778,6 +6778,23 @@
       ]
     },
     {
+      "name": "Reacted",
+      "icon": "icons/svg/downgrade.svg",
+      "referenceType": "journalEntry",
+      "referenceId": "",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "outputChat": false,
+        "markDefeated": false
+      },
+      "id": "reacted",
+      "referenceTypeIcon": "fas fa-book-open",
+      "isJournalReference": true
+    },
+    {
       "name": "Restrained",
       "icon": "modules/combat-utility-belt/icons/restrained.svg",
       "referenceType": "compendium.journalEntry",
@@ -7607,6 +7624,27 @@
       "referenceId": "@Compendium[dnd5e.rules.MOk1rkF0DeJlcC4l]",
       "applyTrigger": "ku71ra7071fhadbp",
       "removeTrigger": "31p8ogjzjnnrglnn",
+      "activeEffect": {
+        "label": "Wounded",
+        "icon": "modules/combat-utility-belt/icons/wounded.svg",
+        "tint": "",
+        "disabled": false,
+        "duration": {
+          "seconds": null,
+          "startTime": null,
+          "rounds": null,
+          "turns": null,
+          "startRound": null,
+          "startTurn": null
+        },
+        "changes": [
+          {
+            "key": "data.bonuses.mwak.damage",
+            "mode": 2,
+            "value": "3d6"
+          }
+        ]
+      },
       "options": {
         "overlay": true,
         "removeOthers": false,
@@ -8018,27 +8056,7 @@
       "referenceId": "@Compendium[curseofstrahdstuff.journals.OLvvG6fzPz3pf8Wd]",
       "applyTrigger": "eha2nihbtamcyptn",
       "removeTrigger": "inwcvrk7k6z9amzp",
-      "activeEffect": {
-        "label": "Wounded",
-        "icon": "modules/combat-utility-belt/icons/wounded.svg",
-        "tint": "",
-        "disabled": false,
-        "duration": {
-          "seconds": null,
-          "startTime": null,
-          "rounds": null,
-          "turns": null,
-          "startRound": null,
-          "startTurn": null
-        },
-        "changes": [
-          {
-            "key": "data.bonuses.mwak.damage",
-            "mode": 2,
-            "value": "3d6"
-          }
-        ]
-      },
+      "activeEffect": {},
       "options": {
         "overlay": true,
         "removeOthers": false,
