@@ -1,4 +1,11 @@
-# v1.1.3
+# v1.1.4
+
+- Added Riposted
+- Added Bait & Switch
+- Added Half-Plate
+- Fixed Cloak of Protection
+
+## v1.1.3
 
 Skipped straight to 1.1.3 to rectify issues with bugged v1.1.1 and v1.1.2 releases.
 
