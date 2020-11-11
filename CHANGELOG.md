@@ -1,6 +1,12 @@
-# v1.1.4
+# v1.1.5
 
-- Added Riposted
+- Removed Half-Plate
+- Fixed icons for Riposted and Bait & Switch
+- Cleared out some old stuff like Divine Strike
+
+## v1.1.4
+
+- Added Riposte
 - Added Bait & Switch
 - Added Half-Plate
 - Fixed Cloak of Protection
