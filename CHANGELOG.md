@@ -1,11 +1,11 @@
 # v1.1.6
 
-???
+- Re-added Ripose and Bait & Switch which have gone missing
 
 ## v1.1.5
 
 - Removed Half-Plate
-- Fixed icons for Riposted and Bait & Switch
+- Fixed icons for Riposte and Bait & Switch
 - Cleared out some old stuff like Divine Strike
 
 ## v1.1.4
