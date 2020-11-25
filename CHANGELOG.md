@@ -1,4 +1,9 @@
-# v1.1.5
+# v1.1.6
+
+- Fixed icons for Riposted and Bait & Switch again
+- Added custom Token Vision macro
+
+## v1.1.5
 
 - Removed Half-Plate
 - Fixed icons for Riposted and Bait & Switch
