@@ -2,6 +2,7 @@
   "system": "dnd5e",
   "map": [
     {
+      "id": "blessed",
       "name": "Blessed",
       "icon": "icons/svg/angel.svg",
       "referenceType": "compendium.journalEntry",
@@ -15,7 +16,7 @@
         "tint": "",
         "disabled": false,
         "duration": {
-          "seconds": null,
+          "seconds": 60,
           "startTime": null,
           "rounds": 10,
           "turns": null,
@@ -29,22 +30,22 @@
             "value": "1d4"
           },
           {
-            "key": "data.bonuses.mwak.attack",
-            "mode": 2,
-            "value": "1d4"
-          },
-          {
-            "key": "data.bonuses.rwak.attack",
-            "mode": 2,
-            "value": "1d4"
-          },
-          {
             "key": "data.bonuses.msak.attack",
             "mode": 2,
             "value": "1d4"
           },
           {
+            "key": "data.bonuses.mwak.attack",
+            "mode": 2,
+            "value": "1d4"
+          },
+          {
             "key": "data.bonuses.rsak.attack",
+            "mode": 2,
+            "value": "1d4"
+          },
+          {
+            "key": "data.bonuses.rwak.attack",
             "mode": 2,
             "value": "1d4"
           }
@@ -55,10 +56,10 @@
         "removeOthers": false,
         "outputChat": false,
         "markDefeated": false
-      },
-      "id": "blessed"
+      }
     },
     {
+      "id": "blinded",
       "name": "Blinded",
       "icon": "modules/combat-utility-belt/icons/blinded.svg",
       "referenceType": "compendium.journalEntry",
@@ -71,10 +72,10 @@
         "removeOthers": false,
         "outputChat": false,
         "markDefeated": false
-      },
-      "id": "blinded"
+      }
     },
     {
+      "id": "charmed",
       "name": "Charmed",
       "icon": "modules/combat-utility-belt/icons/charmed.svg",
       "referenceType": "compendium.journalEntry",
@@ -87,10 +88,10 @@
         "removeOthers": false,
         "outputChat": false,
         "markDefeated": false
-      },
-      "id": "charmed"
+      }
     },
     {
+      "id": "concentrating",
       "name": "Concentrating",
       "icon": "modules/combat-utility-belt/icons/concentrating.svg",
       "referenceType": "compendium.journalEntry",
@@ -103,10 +104,10 @@
         "removeOthers": false,
         "outputChat": false,
         "markDefeated": false
-      },
-      "id": "concentrating"
+      }
     },
     {
+      "id": "deafened",
       "name": "Deafened",
       "icon": "modules/combat-utility-belt/icons/deafened.svg",
       "referenceType": "compendium.journalEntry",
@@ -119,10 +120,10 @@
         "removeOthers": false,
         "outputChat": false,
         "markDefeated": false
-      },
-      "id": "deafened"
+      }
     },
     {
+      "id": "exhaustion-1",
       "name": "Exhaustion 1",
       "icon": "modules/combat-utility-belt/icons/exhaustion1.svg",
       "referenceType": "compendium.journalEntry",
@@ -130,15 +131,16 @@
       "referenceId": "@Compendium[dnd5e.rules.apBZudO4UA1wj7aC]",
       "applyTrigger": "",
       "removeTrigger": "",
+      "activeEffect": null,
       "options": {
         "overlay": false,
         "removeOthers": false,
         "outputChat": false,
         "markDefeated": false
-      },
-      "id": "exhaustion-1"
+      }
     },
     {
+      "id": "exhaustion-2",
       "name": "Exhaustion 2",
       "icon": "modules/combat-utility-belt/icons/exhaustion2.svg",
       "referenceType": "compendium.journalEntry",
@@ -146,15 +148,16 @@
       "referenceId": "@Compendium[dnd5e.rules.apBZudO4UA1wj7aC]",
       "applyTrigger": "",
       "removeTrigger": "",
+      "activeEffect": null,
       "options": {
         "overlay": false,
         "removeOthers": false,
         "outputChat": false,
         "markDefeated": false
-      },
-      "id": "exhaustion-2"
+      }
     },
     {
+      "id": "exhaustion-3",
       "name": "Exhaustion 3",
       "icon": "modules/combat-utility-belt/icons/exhaustion3.svg",
       "referenceType": "compendium.journalEntry",
@@ -162,15 +165,16 @@
       "referenceId": "@Compendium[dnd5e.rules.apBZudO4UA1wj7aC]",
       "applyTrigger": "",
       "removeTrigger": "",
+      "activeEffect": null,
       "options": {
         "overlay": false,
         "removeOthers": false,
         "outputChat": false,
         "markDefeated": false
-      },
-      "id": "exhaustion-3"
+      }
     },
     {
+      "id": "exhaustion-4",
       "name": "Exhaustion 4",
       "icon": "modules/combat-utility-belt/icons/exhaustion4.svg",
       "referenceType": "compendium.journalEntry",
@@ -178,15 +182,16 @@
       "referenceId": "@Compendium[dnd5e.rules.apBZudO4UA1wj7aC]",
       "applyTrigger": "",
       "removeTrigger": "",
+      "activeEffect": null,
       "options": {
         "overlay": false,
         "removeOthers": false,
         "outputChat": false,
         "markDefeated": false
-      },
-      "id": "exhaustion-4"
+      }
     },
     {
+      "id": "exhaustion-5",
       "name": "Exhaustion 5",
       "icon": "modules/combat-utility-belt/icons/exhaustion5.svg",
       "referenceType": "compendium.journalEntry",
@@ -194,15 +199,16 @@
       "referenceId": "@Compendium[dnd5e.rules.apBZudO4UA1wj7aC]",
       "applyTrigger": "",
       "removeTrigger": "",
+      "activeEffect": null,
       "options": {
         "overlay": false,
         "removeOthers": false,
         "outputChat": false,
         "markDefeated": false
-      },
-      "id": "exhaustion-5"
+      }
     },
     {
+      "id": "frightened",
       "name": "Frightened",
       "icon": "modules/combat-utility-belt/icons/frightened.svg",
       "referenceType": "compendium.journalEntry",
@@ -215,10 +221,10 @@
         "removeOthers": false,
         "outputChat": false,
         "markDefeated": false
-      },
-      "id": "frightened"
+      }
     },
     {
+      "id": "grappled",
       "name": "Grappled",
       "icon": "modules/combat-utility-belt/icons/grappled.svg",
       "referenceType": "compendium.journalEntry",
@@ -231,10 +237,10 @@
         "removeOthers": false,
         "outputChat": false,
         "markDefeated": false
-      },
-      "id": "grappled"
+      }
     },
     {
+      "id": "incapacitated",
       "name": "Incapacitated",
       "icon": "modules/combat-utility-belt/icons/incapacitated.svg",
       "referenceType": "compendium.journalEntry",
@@ -247,10 +253,10 @@
         "removeOthers": false,
         "outputChat": false,
         "markDefeated": false
-      },
-      "id": "incapacitated"
+      }
     },
     {
+      "id": "invisible",
       "name": "Invisible",
       "icon": "modules/combat-utility-belt/icons/invisible.svg",
       "referenceType": "compendium.journalEntry",
@@ -263,10 +269,10 @@
         "removeOthers": false,
         "outputChat": false,
         "markDefeated": false
-      },
-      "id": "invisible"
+      }
     },
     {
+      "id": "paralyzed",
       "name": "Paralyzed",
       "icon": "modules/combat-utility-belt/icons/paralyzed.svg",
       "referenceType": "compendium.journalEntry",
@@ -279,10 +285,10 @@
         "removeOthers": false,
         "outputChat": false,
         "markDefeated": false
-      },
-      "id": "paralyzed"
+      }
     },
     {
+      "id": "petrified",
       "name": "Petrified",
       "icon": "modules/combat-utility-belt/icons/petrified.svg",
       "referenceType": "compendium.journalEntry",
@@ -290,36 +296,15 @@
       "referenceId": "@Compendium[dnd5e.rules.1XcKtGnKprqX6fa2]",
       "applyTrigger": "",
       "removeTrigger": "",
-      "activeEffect": {
-        "label": "Marked",
-        "icon": "icons/svg/pawprint.svg",
-        "tint": "",
-        "disabled": false,
-        "duration": {
-          "seconds": null,
-          "startTime": null,
-          "rounds": 100,
-          "turns": null,
-          "startRound": null,
-          "startTurn": null
-        },
-        "changes": [
-          {
-            "key": "Macro Execute",
-            "mode": 0,
-            "value": "HMCurse"
-          }
-        ]
-      },
       "options": {
         "overlay": false,
         "removeOthers": false,
         "outputChat": false,
         "markDefeated": false
-      },
-      "id": "petrified"
+      }
     },
     {
+      "id": "poisoned",
       "name": "Poisoned",
       "icon": "modules/combat-utility-belt/icons/poisoned.svg",
       "referenceType": "compendium.journalEntry",
@@ -332,10 +317,10 @@
         "removeOthers": false,
         "outputChat": false,
         "markDefeated": false
-      },
-      "id": "poisoned"
+      }
     },
     {
+      "id": "prone",
       "name": "Prone",
       "icon": "modules/combat-utility-belt/icons/prone.svg",
       "referenceType": "compendium.journalEntry",
@@ -348,10 +333,10 @@
         "removeOthers": false,
         "outputChat": false,
         "markDefeated": false
-      },
-      "id": "prone"
+      }
     },
     {
+      "id": "restrained",
       "name": "Restrained",
       "icon": "modules/combat-utility-belt/icons/restrained.svg",
       "referenceType": "compendium.journalEntry",
@@ -364,10 +349,10 @@
         "removeOthers": false,
         "outputChat": false,
         "markDefeated": false
-      },
-      "id": "restrained"
+      }
     },
     {
+      "id": "stunned",
       "name": "Stunned",
       "icon": "modules/combat-utility-belt/icons/stunned.svg",
       "referenceType": "compendium.journalEntry",
@@ -380,25 +365,26 @@
         "removeOthers": false,
         "outputChat": false,
         "markDefeated": false
-      },
-      "id": "stunned"
+      }
     },
     {
+      "id": "reacted",
       "name": "Reacted",
       "icon": "icons/svg/downgrade.svg",
       "referenceType": "journalEntry",
       "referenceId": "",
       "applyTrigger": "",
       "removeTrigger": "",
+      "activeEffect": null,
       "options": {
         "overlay": false,
         "removeOthers": false,
         "outputChat": false,
         "markDefeated": false
-      },
-      "id": "reacted"
+      }
     },
     {
+      "id": "defeated",
       "name": "Defeated",
       "icon": "icons/svg/skull.svg",
       "referenceType": "compendium.journalEntry",
@@ -406,15 +392,16 @@
       "referenceId": "@Compendium[curseofstrahdstuff.journals.KJg9MYSeD6eLBqA0]",
       "applyTrigger": "27besew4uz7qd7km",
       "removeTrigger": "31p8ogjzjnnrglnn",
+      "activeEffect": null,
       "options": {
         "overlay": true,
         "removeOthers": true,
         "outputChat": false,
         "markDefeated": true
-      },
-      "id": "defeated"
+      }
     },
     {
+      "id": "unconscious",
       "name": "Unconscious",
       "icon": "icons/svg/unconscious.svg",
       "referenceType": "compendium.journalEntry",
@@ -422,36 +409,15 @@
       "referenceId": "@Compendium[dnd5e.rules.MOk1rkF0DeJlcC4l]",
       "applyTrigger": "ku71ra7071fhadbp",
       "removeTrigger": "31p8ogjzjnnrglnn",
-      "activeEffect": {
-        "label": "Wounded",
-        "icon": "modules/combat-utility-belt/icons/wounded.svg",
-        "tint": "",
-        "disabled": false,
-        "duration": {
-          "seconds": null,
-          "startTime": null,
-          "rounds": null,
-          "turns": null,
-          "startRound": null,
-          "startTurn": null
-        },
-        "changes": [
-          {
-            "key": "data.bonuses.mwak.damage",
-            "mode": 2,
-            "value": "3d6"
-          }
-        ]
-      },
       "options": {
         "overlay": true,
         "removeOthers": false,
         "outputChat": false,
         "markDefeated": false
-      },
-      "id": "unconscious"
+      }
     },
     {
+      "id": "wounded",
       "name": "Wounded",
       "icon": "modules/combat-utility-belt/icons/wounded.svg",
       "referenceType": "compendium.journalEntry",
@@ -459,14 +425,12 @@
       "referenceId": "@Compendium[curseofstrahdstuff.journals.OLvvG6fzPz3pf8Wd]",
       "applyTrigger": "eha2nihbtamcyptn",
       "removeTrigger": "inwcvrk7k6z9amzp",
-      "activeEffect": {},
       "options": {
         "overlay": true,
         "removeOthers": false,
         "outputChat": false,
         "markDefeated": false
-      },
-      "id": "wounded"
+      }
     }
   ]
 }
