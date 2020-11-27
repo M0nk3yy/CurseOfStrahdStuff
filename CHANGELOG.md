@@ -1,6 +1,6 @@
 # v1.1.6
 
-- Re-added Ripose and Bait & Switch
+- Fixed Riposte and Bait & Switch
 - Added custom Token Vision macro
 
 ## v1.1.5
