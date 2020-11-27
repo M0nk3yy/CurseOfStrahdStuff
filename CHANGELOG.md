@@ -1,12 +1,12 @@
 # v1.1.6
 
-- Fixed icons for Riposted and Bait & Switch again
+- Fixed Riposte and Bait & Switch
 - Added custom Token Vision macro
 
 ## v1.1.5
 
 - Removed Half-Plate
-- Fixed icons for Riposted and Bait & Switch
+- Fixed icons for Riposte and Bait & Switch
 - Cleared out some old stuff like Divine Strike
 
 ## v1.1.4
