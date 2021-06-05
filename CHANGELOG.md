@@ -1,4 +1,9 @@
-# v1.1.6
+# v1.2.0
+
+- Replaced Multiattack Defense
+- V0.8x compatibility
+
+## v1.1.6
 
 - Fixed Riposte and Bait & Switch
 - Added custom Token Vision macro
